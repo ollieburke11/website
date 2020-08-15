@@ -1,0 +1,10 @@
+NEW STEP EACH LINE
+Open your file explorer, make a new folder, and name it whatever you like. (for example im calling this folder 'github website'.
+INSIDE the 'github website' folder make another called 'css'.
+Open your text editor (e.g. sublime text, visual studio, etc.) 
+make new file and name it 'index.html' and save it to your 'github website' folder.
+make new file and name it 'style.css' and save it to your 'css' folder.
+copy the 'html code' file into your 'index.html' file in your text editor.
+copy the 'css code' into your 'style.css' file in your text editor.
+download the images in this repository and save them to your 'github website' folder.
+open your 'index.html' file in your browser of choice (google chrome is recommended) 
