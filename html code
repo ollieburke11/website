@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dhruv Malik</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+</body>
+</html>  
+
+
+<div class="container">
+  <nav class="navbar">
+      <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">My Portfolio</a></li>
+          <li><a href="#service">About Me</a></li>
+          <li><a href="#contact">Contact Me</a></li>
+        </ul>
+      </nav>
+  <section id="home">
+    <h1>Dhruv Malik</h1>
+    <p class="lead">Welcome to my portfolio and im gay</p>
+  </section>
+  <section id="about">
+      <h1>My Portfolio</h1>
+      <p class="lead">I really like men</p>
+  </section>
+  <section id="service">
+      <h1>About Me</h1>
+      <p class="lead">i cant tell you how much i really like men</p>
+  </section>
+  <section id="contact">
+      <h1>Contact Me</h1>
+      <p class="lead">I've liked men since the day i was born</p>
+  </section>
+</div>
